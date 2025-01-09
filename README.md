@@ -26,8 +26,8 @@ Follow these steps to set up and run the project:
 ### Step 1: Clone the Repository
 Clone this repository to your local machine:
 ```
-git clone <repository-url>
-cd <repository-name>
+git clone https://github.com/oluwabunmifife/logger-demo.git
+cd logger-demo
 ```
 
 ### Step 2: Create a virtual environment
