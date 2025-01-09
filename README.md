@@ -7,7 +7,7 @@ This project demonstrates how to set up a Django application that logs events an
 ## Features
 - **Django Logging**: Logs INFO, WARNING, and ERROR messages.
 - **Prometheus Monitoring**: Exposes log-related metrics via a `/metrics` endpoint.
-- **Metrics Visualization**: Designed for integration with Prometheus and Grafana.
+- **Metrics Visualization**: Basic visualization with Prometheus UI
 
 ---
 
