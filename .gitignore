@@ -1,3 +1,4 @@
 loggdemo
 venv
 *.log
+db.sqlite3
